@@ -1,0 +1,9 @@
+with Ada.Text_IO; use Ada.Text_IO;                                                                                                                                                                                                            │
+                                                                                                                                                                                                                                              │
+procedure Hello is                                                                                                                                                                                                                            │
+begin                                                                                                                                                                                                                                         │
+        -- Print Hello world to the screen                                                                                                                                                                                                    │
+        -- Also, these are comments                                                                                                                                                                                                           │
+        Ada.Text_IO.Put_Line ("Hello World! This is Ada!");                                                                                                                                                                                   │
+end Hello;                                                                                                                                                                                                                                    │
+             
